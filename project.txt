@@ -1,2 +1,4 @@
 hello everyone
 I am from innomatics research labs data science course
+there is bug in the earlier code
+so fixing this bug now 
